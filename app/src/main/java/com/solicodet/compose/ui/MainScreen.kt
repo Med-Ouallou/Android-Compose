@@ -25,6 +25,7 @@ fun MainScreen(modifier: Modifier = Modifier){
         DireBonjourSection()
         CounterSection()
     }
+
 }
 
     @Preview(showBackground = true, widthDp = 360)

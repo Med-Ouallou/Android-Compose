@@ -7,4 +7,5 @@
     <string name="title_counter">Compteur</string>
     <string name="cd_decrement">Diminuer</string>
     <string name="cd_increment">Augmenter</string>
+
 </resources>

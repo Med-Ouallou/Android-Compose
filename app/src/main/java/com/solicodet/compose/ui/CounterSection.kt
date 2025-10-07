@@ -28,6 +28,7 @@ fun CounterSection(modifier: Modifier = Modifier){
         Text(
             text = "$count",
             style = MaterialTheme.typography.headlineSmall
+
         )
 
         IconButton(onClick = {count++ }) {

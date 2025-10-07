@@ -30,6 +30,7 @@ fun DireBonjourSection(modifier: Modifier = Modifier) {
             Text(stringResource(R.string.btn_greet))
         }
 
+
         if (greetingName != null) {
             AssistChip(
                 onClick = { },
